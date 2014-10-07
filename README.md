@@ -27,6 +27,7 @@ where our tests expect them. Make sure to run that script the first time you dow
 - [JQuery MouseWheel 3.1.3](https://github.com/brandonaaron/jquery-mousewheel/)
 - [Hammer.JS JQuery Plugin 1.0.4](http://eightmedia.github.com/hammer.js)
 - [Color JS 0.4.1](https://github.com/harthur/color)
+
 Testing
 -------
 
